@@ -1,0 +1,10 @@
+mkdocs
+mkdocs-cinder
+cookiecutter
+pytest
+numpy
+scipy
+matplotlib
+xarray
+statsmodel
+pandas
