@@ -1,4 +1,4 @@
-# Cookiecutter template for Earth System Science
+# Cookiecutter template for typical Earth System Science projects
 #### Based on http://drivendata.github.io/cookiecutter-data-science/
 
 
